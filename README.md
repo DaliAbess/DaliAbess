@@ -1,6 +1,6 @@
 # Hey, I'm Dali Abess 👋
 
-### DevOps & DevSecOps Engineer | Cloud-Native Enthusiast 
+### DevOps & DevSecOps Engineer 
 
 I design, automate, and secure modern software delivery platforms.
 
